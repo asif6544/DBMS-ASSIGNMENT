@@ -1,4 +1,4 @@
-```
+
 1️⃣ Display empno, ename, department name (Using CASE)
 ```
 SELECT empno,
@@ -11,3 +11,4 @@ SELECT empno,
             ELSE 'UNKNOWN'
        END AS dept_name
 FROM emp;
+```

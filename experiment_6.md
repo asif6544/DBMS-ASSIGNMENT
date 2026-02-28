@@ -1,4 +1,6 @@
-```1️⃣ Display empno, ename, department name (Using CASE)
+```
+1️⃣ Display empno, ename, department name (Using CASE)
+```
 SELECT empno,
        ename,
        CASE deptno
